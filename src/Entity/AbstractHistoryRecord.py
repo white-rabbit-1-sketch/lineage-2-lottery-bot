@@ -1,0 +1,2 @@
+class AbstractHistoryRecord:
+    pass
